@@ -1,0 +1,13 @@
+# Added during SDML GitHub Training
+
+alias ga="git add"
+alias gb="git branch"
+alias gc="git commit -m"
+alias gch="git checkout"
+alias gf="git fetch"
+alias gh="cd $HOME/github/ && ls"
+alias gm="git merge"
+alias gp="git push"
+alias gr="git reset HEAD"
+
+# End of additions during SDML GitHub Training
